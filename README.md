@@ -1,2 +1,2 @@
 # Bank
-Projeto de estudo desenvolvido no curso de Typesript da Alura
+Projeto de estudo desenvolvido no curso de Typescript da Alura
